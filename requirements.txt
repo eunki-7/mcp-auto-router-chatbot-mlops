@@ -7,5 +7,6 @@ boto3==1.28.0
 numpy==1.25.0
 pydantic==1.10.7
 pytest==7.3.1
+httpx==0.24.1
 prometheus-fastapi-instrumentator==5.9.1
 sentence-transformers==2.2.2
