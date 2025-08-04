@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green.svg)](https://fastapi.tiangolo.com/)
 [![CI](https://github.com/eunki-7/mcp-auto-router-chatbot-mlops/actions/workflows/github-actions_test.yml/badge.svg)](https://github.com/eunki-7/mcp-auto-router-chatbot-mlops/actions)
+
 [![Transformers](https://img.shields.io/badge/Transformers-4.x-orange.svg)](https://huggingface.co/docs/transformers/index)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
